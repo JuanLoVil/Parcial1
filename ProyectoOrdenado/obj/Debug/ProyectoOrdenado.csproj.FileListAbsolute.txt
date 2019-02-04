@@ -1,0 +1,14 @@
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\bin\Debug\ProyectoOrdenado.exe.config
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\bin\Debug\ProyectoOrdenado.exe
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\bin\Debug\ProyectoOrdenado.pdb
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\bin\Debug\MySql.Data.dll
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\bin\Debug\Google.Protobuf.dll
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\bin\Debug\MySql.Data.xml
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.csprojAssemblyReference.cache
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.Properties.Resources.resources
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.Form1.resources
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.csproj.GenerateResource.cache
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.csproj.CoreCompileInputs.cache
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.csproj.CopyComplete
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.exe
+C:\Users\JuanCarlos\source\repos\ProyectoOrdenado\ProyectoOrdenado\obj\Debug\ProyectoOrdenado.pdb
